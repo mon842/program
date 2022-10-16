@@ -10,6 +10,9 @@ trackId: 4635
 ```
 Input  : 5
 Output : 300
+
+Input  : 10
+Output : 600
 ```
 
 ---
